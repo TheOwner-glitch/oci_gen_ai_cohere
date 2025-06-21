@@ -1,0 +1,10 @@
+# OCI Configuration Example
+
+OCI_COMPARTMENT_ID=ocid1.tenancy.oc1..examplecompartmentid
+OCI_TENANCY_ID=ocid1.tenancy.oc1..exampletenancyid
+OCI_USER_ID=ocid1.user.oc1..exampleuserid
+OCI_FINGERPRINT=3e:00:00:00:00:00
+OCI_REGION=us-chicago-1
+OCI_PRIVATE_KEY_PATH=/path/to/your/private/key.pem
+OCI_PROFILE=DEFAULT
+OCI_MODEL_ID=ocid1.generativeaimodel.oc1.us-chicago-1.examplemodelid

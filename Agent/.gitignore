@@ -1,0 +1,12 @@
+# Environment
+.env
+
+# OS/IDE
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env/
+oci-venv
+oci-venv/

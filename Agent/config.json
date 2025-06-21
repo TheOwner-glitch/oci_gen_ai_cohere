@@ -1,0 +1,6 @@
+{
+    "max_tokens": 600,
+    "frequency_penalty": 0,
+    "top_p": 0.75,
+    "top_k": 0
+}
